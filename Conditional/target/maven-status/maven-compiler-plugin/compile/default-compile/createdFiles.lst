@@ -1,0 +1,6 @@
+ru\netology\conditional\systemProfile\DevProfile.class
+ru\netology\conditional\ConditionalApplication.class
+ru\netology\conditional\controller\ProfileController.class
+ru\netology\conditional\systemProfile\ProductionProfile.class
+ru\netology\conditional\systemProfile\SystemProfile.class
+ru\netology\conditional\JavaConfig\JavaConfig.class
